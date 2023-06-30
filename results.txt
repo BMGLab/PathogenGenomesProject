@@ -1,0 +1,17 @@
+Completion percentage (NC_030986.1): 99.95%
+Completion percentage (NC_030988.1): 98.47%
+Completion percentage (NC_030987.1): 99.60%
+Completion percentage (NC_030989.1): 99.72%
+Completion percentage (NC_030990.1): 99.58%
+Completion percentage (NC_030991.1): 98.08%
+Completion percentage (NC_030992.1): 98.84%
+Completion percentage (NC_030993.1): 98.89%
+Completion percentage (NC_030994.1): 99.84%
+Completion percentage (NC_030995.1): 99.31%
+Completion percentage (NC_031000.1): 99.23%
+Completion percentage (NC_030996.1): 99.40%
+Completion percentage (NC_030997.1): 98.07%
+Completion percentage (NC_030999.1): 99.18%
+Completion percentage (NC_030998.1): 97.40%
+
+Average completion percentage: 99.04%
