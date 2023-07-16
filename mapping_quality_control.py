@@ -53,9 +53,13 @@ def main():
     
     file = sys.argv[1]
     samfile = "sorted_sam_file.sam"
+    baifile = file + ".bai"
+
+    os.system(f"samtools view -h {file} > {samfile}")
+    os.system(f"samtools index {file} {baifile}")
 
     bamfile = pysam.AlignmentFile(file , "rb")
-    os.system(f"samtools view -h {file} > {samfile}")
+    
 
     chromosome_count = get_chromososmes_count(samfile)
 
